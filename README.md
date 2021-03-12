@@ -16,7 +16,7 @@ We believe that miners can make the most out of their hardware if we build tools
 
 ## How is it built?
 
-FluxHash will use [Flux](https://zel.network/flux), a modern blockchain technology that allows running decentralized apps (dApps) in secured and scalable infraestructure, integrates with decentralized exchanges, and allows users to be on control over their private keys via the ZelCore app.
+FluxHash will use [Flux](https://zel.network/flux), a modern blockchain technology that allows running decentralized apps (dApps) in secured and scalable infraestructure, integrates with decentralized exchanges, and allows users to be in control over their private keys via the ZelCore app.
 
 ## Business Model
 
